@@ -2,4 +2,7 @@ This is answers for Lab01 - HUST 20232 - 738949
 Student: Nguyen Sy Quan - 20225585
 
 6.1:
-    
+    - When i choose "Cancel", nothing change, just return to the edit screen, the program is not return
+    - To custom user choice, we can do like this
+        Object[] options = {"I know", "I don't know", "Yes"};
+        int option = JOptionPane.showOptionDialog(null, "Do you want to change to the first class ticket?", "Confirmation", JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE, null, options, options[1]);
