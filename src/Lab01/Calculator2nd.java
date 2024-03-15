@@ -43,7 +43,7 @@ public class Calculator2nd {
     public static void quadEquation(double a, double b, double c){
         // ax^2 + bx + c = 0
         double delta = b*b - 4*a*c;
-        if (delta < 0){
+        if (delta > 0){
             System.out.println("Equation has 2 roots:");
             System.out.println("x1 = "+ ((-b-Math.sqrt(delta))/(2*a)));
             System.out.println("x1 = "+ ((-b+Math.sqrt(delta))/(2*a)));
