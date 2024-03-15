@@ -1,4 +1,5 @@
-/**This code is write to report the OOP Lab 01 - HUST 20232
+/**This code is write to report the OOP Lab 01 - HUST 20232 - 738949
+ * Task 2.2.5
  * Writer: Nguyen Sy Quan - 20225585
  */
 package Lab01;
