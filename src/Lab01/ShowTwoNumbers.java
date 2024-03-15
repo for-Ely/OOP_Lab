@@ -1,4 +1,7 @@
-package Lab1;
+/**This code is write to report the OOP Lab 01 - HUST 20232
+ * Writer: Nguyen Sy Quan - 20225585
+ */
+package Lab01;
 import javax.swing.JOptionPane;
 public class ShowTwoNumbers {
 	public static void main(String[] args) {
