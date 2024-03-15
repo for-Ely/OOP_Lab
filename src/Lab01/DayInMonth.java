@@ -40,6 +40,7 @@ public class DayInMonth {
                 System.out.println("Month has 30 days");
 
         }
+        sc.close();
     }
     public static int getMonth(String month){
             switch (month){
