@@ -1,0 +1,6 @@
+/**This code is write to report the OOP Lab 01 - HUST 20232 - 738949
+ * Writer: Nguyen Sy Quan - 20225585
+ */
+
+When we inital new constructor like that, an error notification will tell us that the constructor is duplicated
+This is because they use the same Type struct, which make computer confus
